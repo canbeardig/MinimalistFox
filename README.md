@@ -10,7 +10,7 @@ Borderless, minimalist Firefox themes with single coloured active tabs and highl
 
 ![Green-tabs](dark-and-green-tabs/green-tabs.svg)
 
-![Screenshot](dark-and-green-tabs/Screenshot.png)
+![Screenshot](dark-and-green-tabs/Screenshot1.png)
 
 ```Colours in use: Black: #282828, Grey: #aaaaaa, Green: #689d69```
 
