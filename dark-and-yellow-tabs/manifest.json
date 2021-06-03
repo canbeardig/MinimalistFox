@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.3",
+  "name": "Minimalist Dark and Yellow Tabs",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(24, 27, 30)",
+      "toolbar_text": "rgb(159, 191, 183)",
+      "frame": "rgb(24, 27, 30)",
+      "tab_background_text": "rgb(159, 191, 183)",
+      "toolbar_field": "rgb(24, 27, 30)",
+      "toolbar_field_text": "rgb(159, 191, 183)",
+      "tab_line": "rgb(94, 92, 61)",
+      "popup": "rgb(24, 27, 30)",
+      "popup_text": "rgb(159, 191, 183)",
+      "icons_attention": "rgb(220, 216, 140)",
+      "ntp_background": "rgb(24, 27, 30)",
+      "ntp_text": "rgb(159, 191, 183)",
+      "popup_highlight": "rgb(246, 134, 124)",
+      "sidebar_border": "rgb(24, 27, 30)",
+      "sidebar_highlight_text": "rgb(220, 216, 140)",
+      "sidebar_text": "rgb(159, 191, 183)",
+      "sidebar": "rgb(24, 27, 30)",
+      "tab_loading": "rgb(24, 27, 30)",
+      "tab_selected": "rgb(220, 216, 140)",
+      "tab_text": "rgb(24, 27, 30)",
+      "toolbar_bottom_separator": "rgb(24, 27, 30)",
+      "toolbar_field_border_focus": "rgb(246, 134, 124)",
+      "toolbar_field_border": "rgb(24, 27, 30)",
+      "toolbar_field_focus": "rgb(24, 27, 30)",
+      "toolbar_field_highlight": "rgb(246, 134, 124)",
+      "toolbar_field_separator": "rgb(24, 27, 30)",
+      "toolbar_field_text_focus": "rgb(159, 191, 183)",
+      "toolbar_top_separator": "rgb(24, 27, 30)",
+      "toolbar_vertical_separator": "rgb(24, 27, 30)"
+    }
+  }
+}
