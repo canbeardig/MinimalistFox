@@ -10,6 +10,8 @@ Borderless, minimalist Firefox themes with single coloured active tabs and highl
 
 ![Green-tabs](dark-and-green-tabs/green-tabs.svg)
 
+![Screenshot](dark-and-green-tabs/Screenshot.png)
+
 ```Colours in use: Black: #282828, Grey: #aaaaaa, Green: #689d69```
 
 Green active tabs and highlights. Inspired by [Orchis-theme](https://github.com/vinceliuice/Orchis-theme). Available on the [Firefox Add-ons site](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-green-tabs/).
