@@ -25,7 +25,7 @@ Green active tabs and highlights. Inspired by [gruvbox](https://github.com/morhe
 
 ```Colours in use: Black: #2b303c, Light Grey: #c5c5c7, Blue: #81a1c1```
 
-Blue active tabs and highlights. Inspired by [Nord-colour palette](https://github.com/arcticicestudio/nord). Available on the [Firefox Add-ons site](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-blue-tabs/).
+Blue active tabs and highlights. Inspired by [Nord colour palette](https://github.com/arcticicestudio/nord). Available on the [Firefox Add-ons site](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-blue-tabs/).
 
 <br/>
 
