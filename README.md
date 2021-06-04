@@ -35,7 +35,7 @@ Blue active tabs and highlights. Inspired by [Nord colour palette](https://githu
 
 ```Colours in use: Black: #1e1f29, Grey: #aaaaaa, Purple: #725e97```
 
-Purple active tabs and highlights. Inspired by [Dracula-Gtk](https://github.com/dracula/gtk). Available on the [Firefox Add-ons site](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-purple-tab/).
+Purple active tabs and highlights. Inspired by [Dracula-GTK](https://github.com/dracula/gtk). Available on the [Firefox Add-ons site](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-purple-tab/).
 
 <br/>
 
