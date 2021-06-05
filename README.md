@@ -1,6 +1,6 @@
 # MinimalistFox
 
-Borderless, minimalist Firefox themes with single coloured active tabs and highlights. Supports v89.0 and after.
+Borderless, minimalist Firefox themes with single coloured active tabs and highlights. Supports version 89+
 
 ![Screenshot](screenshot-main.png)
 
