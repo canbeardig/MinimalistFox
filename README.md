@@ -52,7 +52,7 @@ Purple active tabs and highlights. Inspired by [Dracula-GTK](https://github.com/
 
 ![Yellow-tabs](dark-and-yellow-tabs/yellow-tabs.svg)
 
-```Colours in use: Black: #181b1e, Shadow Green: #9fbfb7, Yellow: #dcd88c, Red: #f6867c```
+```Colours in use: Black: #181b1e, Shadow Green: #9fbfb7, Yellow: #c1af58, Coral Pink: #c1585a```
 
-Yellow active tabs and red highlights. Inspired by [Sweet Mars theme](https://github.com/EliverLara/Sweet). Available on the [Firefox Add-ons site](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-yellow-tab/).
+Yellow active tabs and pink highlights. Inspired by [Sweet Mars theme](https://github.com/EliverLara/Sweet). Available on the [Firefox Add-ons site](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-yellow-tab/).
 
