@@ -24,7 +24,7 @@ Green active tabs and highlights. Inspired by [gruvbox](https://github.com/morhe
 
 ```Colours in use: Black: #1f1f1f, Grey: #8a8a8a, Red: #9d353a```
 
-Red active tabs and highlights. Available on the [Firefox Add-ons site](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-red-tabs/).
+Red active tabs and highlights. Inspired by [gruvbox](https://github.com/morhetz/gruvbox). Available on the [Firefox Add-ons site](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-red-tabs/).
 
 <br/>
 
