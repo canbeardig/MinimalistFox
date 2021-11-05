@@ -56,3 +56,13 @@ Purple active tabs and highlights. Inspired by [Dracula-GTK](https://github.com/
 
 Yellow active tabs and pink highlights. Inspired by [Sweet Mars theme](https://github.com/EliverLara/Sweet). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-yellow-tab/).
 
+<br/>
+
+### Minimalist Tokyo Night
+
+![Tokyo-Night](minimalist-tokyo-night/tokyo-night.svg)
+
+```Colours in use: Black: #16161e, Pale Blue: #9aa5ce, Lavender Blue: #c0caf5, Grey: #969696, Brown Yellow: #e0af68, Light Crimson: #f7768e, Pistachio: #9ece6a```
+
+Pale blue active tabs and yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-tokyo-night/).
+
