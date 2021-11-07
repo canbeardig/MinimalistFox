@@ -66,3 +66,12 @@ Yellow active tabs and pink highlights. Inspired by [Sweet Mars theme](https://g
 
 Pale blue active tabs and yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-tokyo-night/).
 
+<br/>
+
+### Minimalist Black and Grey Tabs
+
+![Grey-tabs](black-and-grey-tabs/grey-tabs.svg)
+
+```Colours in use: Black: #000000, Grey: #808080```
+
+Grey active tabs and highlights. Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-black-and-grey-tabs/).
