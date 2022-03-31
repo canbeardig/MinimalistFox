@@ -54,7 +54,7 @@ Purple active tabs and highlights. Inspired by [Dracula-GTK](https://github.com/
 
 ```Colours in use: Black: #181b1e, Shadow Green: #9fbfb7, Yellow: #c1af58, Coral Pink: #c1585a```
 
-Yellow active tabs and pink highlights. Inspired by [Sweet Mars theme](https://github.com/EliverLara/Sweet). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-yellow-tab/).
+Yellow active tabs with pink highlights. Inspired by [Sweet Mars theme](https://github.com/EliverLara/Sweet). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-yellow-tab/).
 
 <br/>
 
@@ -64,7 +64,7 @@ Yellow active tabs and pink highlights. Inspired by [Sweet Mars theme](https://g
 
 ```Colours in use: Black: #16161e, Pale Blue: #9aa5ce, Lavender Blue: #c0caf5, Grey: #969696, Brown Yellow: #e0af68, Light Crimson: #f7768e, Pistachio: #9ece6a```
 
-Pale blue active tabs and yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-tokyo-night/).
+Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-tokyo-night/).
 
 <br/>
 
@@ -75,3 +75,13 @@ Pale blue active tabs and yellow highlights. Based on [Tokyo Night](https://gith
 ```Colours in use: Black: #000000, Grey: #808080```
 
 Grey active tabs and highlights. Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-black-and-grey-tabs/).
+
+<br/>
+
+### Minimalist Dracula
+
+![Dracula](minimalist-dracula/dracula.svg)
+
+```Colours in use: Black: #282a36, White: #f8f8f2, Purple: #bd93f9, Green: #50fa7b, Pink: #ff79c6, Yellow: #f1fa8c, Cyan: #8be9fd```
+
+Purple toolbar and active tabs with green highlights. Based on [Dracula](https://draculatheme.com/). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dracula/).
