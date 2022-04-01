@@ -6,7 +6,17 @@ Borderless, minimalist Firefox themes with single coloured active tabs and highl
 
 <br/>
 
-## List of themes
+# List of themes
+
+- [Minimalist Dark and Green Tabs](#minimalist-dark-and-green-tabs)
+- [Minimalist Dark and Red Tabs](#minimalist-dark-and-red-tabs)
+- [Minimalist Dark and Blue Tabs](#minimalist-dark-and-blue-tabs)
+- [Minimalist Dark and Purple Tabs](#minimalist-dark-and-purple-tabs)
+- [Minimalist Dark and Yellow Tabs](#minimalist-dark-and-yellow-tabs)
+- [Minimalist Black and Grey Tabs](#minimalist-black-and-grey-tabs)
+- [Minimalist Tokyo Night](#minimalist-tokyo-night)
+- [Minimalist Dracula](#minimalist-dracula)
+
 
 ### Minimalist Dark and Green Tabs
 
@@ -58,16 +68,6 @@ Yellow active tabs with pink highlights. Inspired by [Sweet Mars theme](https://
 
 <br/>
 
-### Minimalist Tokyo Night
-
-![Tokyo-Night](minimalist-tokyo-night/tokyo-night.svg)
-
-```Colours in use: Black: #16161e, Pale Blue: #9aa5ce, Lavender Blue: #c0caf5, Grey: #969696, Brown Yellow: #e0af68, Light Crimson: #f7768e, Pistachio: #9ece6a```
-
-Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-tokyo-night/).
-
-<br/>
-
 ### Minimalist Black and Grey Tabs
 
 ![Grey-tabs](black-and-grey-tabs/grey-tabs.svg)
@@ -75,6 +75,16 @@ Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://git
 ```Colours in use: Black: #000000, Grey: #808080```
 
 Grey active tabs and highlights. Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-black-and-grey-tabs/).
+
+<br/>
+
+### Minimalist Tokyo Night
+
+![Tokyo-Night](minimalist-tokyo-night/tokyo-night.svg)
+
+```Colours in use: Black: #16161e, Pale Blue: #9aa5ce, Lavender Blue: #c0caf5, Grey: #969696, Brown Yellow: #e0af68, Light Crimson: #f7768e, Pistachio: #9ece6a```
+
+Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-tokyo-night/).
 
 <br/>
 
