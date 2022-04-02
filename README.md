@@ -2,9 +2,10 @@
 
 Borderless, minimalist Firefox themes with single coloured active tabs and highlights.
 
-![screenshot-main](screenshot-main.png)
-![screenshot-alternative-2](screenshot-alternative-2.png)
-![screenshot-alternative](screenshot-alternative.png)
+![green-tabs](screenshots/green-tabs.png)
+![blue-tabs](screenshots/blue-tabs.png)
+![tokyo-night-colour](screenshots/tokyo-night-colour.png)
+![dracula-colour](screenshots/dracula-colour.png)
 
 <br/>
 
