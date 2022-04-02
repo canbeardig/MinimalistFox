@@ -93,7 +93,7 @@ Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://git
 
 ### Minimalist Dracula
 
-![Dracula](minimalist-dracula/dracula.svg)
+![Dracula](dracula-colour/dracula.svg)
 
 ```Colours in use: Black: #282a36, White: #f8f8f2, Purple: #bd93f9, Green: #50fa7b, Pink: #ff79c6, Yellow: #f1fa8c, Cyan: #8be9fd```
 
