@@ -25,7 +25,7 @@ Borderless, minimalist Firefox themes with single coloured active tabs and highl
 
 ### Minimalist Dark and Green Tabs
 
-![Green-tabs](dark-and-green-tabs/green-tabs.svg)
+![Green-tabs](themes/dark-and-green-tabs/green-tabs.svg)
 
 ```Colours in use: Black: #282828, Grey: #aaaaaa, Green: #689d69```
 
@@ -35,7 +35,7 @@ Green active tabs and highlights. Inspired by [gruvbox](https://github.com/morhe
 
 ### Minimalist Dark and Red Tabs
 
-![Red-tabs](dark-and-red-tabs/red-tabs.svg)
+![Red-tabs](themes/dark-and-red-tabs/red-tabs.svg)
 
 ```Colours in use: Black: #1f1f1f, Grey: #8a8a8a, Red: #9d353a```
 
@@ -45,7 +45,7 @@ Red active tabs and highlights. Inspired by [gruvbox](https://github.com/morhetz
 
 ### Minimalist Dark and Blue Tabs
 
-![Blue-tabs](dark-and-blue-tabs/blue-tabs.svg)
+![Blue-tabs](themes/dark-and-blue-tabs/blue-tabs.svg)
 
 ```Colours in use: Black: #2b303c, Light Grey: #c5c5c7, Blue: #81a1c1```
 
@@ -55,7 +55,7 @@ Blue active tabs and highlights. Inspired by [Nord colour palette](https://githu
 
 ### Minimalist Dark and Purple Tabs
 
-![Purple-tabs](dark-and-purple-tabs/purple-tabs.svg)
+![Purple-tabs](themes/dark-and-purple-tabs/purple-tabs.svg)
 
 ```Colours in use: Black: #1e1f29, Grey: #aaaaaa, Purple: #725e97```
 
@@ -65,7 +65,7 @@ Purple active tabs and highlights. Inspired by [Dracula-GTK](https://github.com/
 
 ### Minimalist Dark and Yellow Tabs
 
-![Yellow-tabs](dark-and-yellow-tabs/yellow-tabs.svg)
+![Yellow-tabs](themes/dark-and-yellow-tabs/yellow-tabs.svg)
 
 ```Colours in use: Black: #181b1e, Shadow Green: #9fbfb7, Yellow: #c1af58, Coral Pink: #c1585a```
 
@@ -75,7 +75,7 @@ Yellow active tabs with pink highlights. Inspired by [Sweet Mars theme](https://
 
 ### Minimalist Black and Grey Tabs
 
-![Grey-tabs](black-and-grey-tabs/grey-tabs.svg)
+![Grey-tabs](themes/black-and-grey-tabs/grey-tabs.svg)
 
 ```Colours in use: Black: #000000, Grey: #808080```
 
@@ -85,7 +85,7 @@ Grey active tabs and highlights. Available on [Firefox Add-ons](https://addons.m
 
 ### Minimalist Tokyo Night
 
-![Tokyo-Night](minimalist-tokyo-night/tokyo-night.svg)
+![Tokyo-Night](themes/minimalist-tokyo-night/tokyo-night.svg)
 
 ```Colours in use: Black: #16161e, Pale Blue: #9aa5ce, Lavender Blue: #c0caf5, Grey: #969696, Yellow: #e0af68, Red: #f7768e, Green: #9ece6a```
 
@@ -95,7 +95,7 @@ Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://git
 
 ### Tokyo Night Colour
 
-![Tokyo-Night](tokyo-night-colour/tokyo-night-colour.svg)
+![Tokyo-Night](themes/tokyo-night-colour/tokyo-night-colour.svg)
 
 ```Colours in use: Black: #1a1b26, White: #a9b1d6, Blue: #7aa2f7, Yellow: #e0af68, Red: #f7768e, Purple: #bb9af7, Green: #9ece6a```
 
@@ -105,7 +105,7 @@ Blue toolbar and active tabs with yellow highlights. Based on [Tokyo Night](http
 
 ### Dracula Colour
 
-![Dracula](dracula-colour/dracula.svg)
+![Dracula](themes/dracula-colour/dracula.svg)
 
 ```Colours in use: Black: #282a36, White: #f8f8f2, Purple: #bd93f9, Green: #50fa7b, Pink: #ff79c6, Yellow: #f1fa8c, Cyan: #8be9fd```
 
