@@ -18,7 +18,8 @@ Borderless, minimalist Firefox themes with single coloured active tabs and highl
 - [Minimalist Dark and Yellow Tabs](#minimalist-dark-and-yellow-tabs)
 - [Minimalist Black and Grey Tabs](#minimalist-black-and-grey-tabs)
 - [Minimalist Tokyo Night](#minimalist-tokyo-night)
-- [Minimalist Dracula](#minimalist-dracula)
+- [Tokyo Night Colour](#tokyo-night-colour)
+- [Dracula Colour](#dracula-colour)
 
 <br/>
 
@@ -86,16 +87,26 @@ Grey active tabs and highlights. Available on [Firefox Add-ons](https://addons.m
 
 ![Tokyo-Night](minimalist-tokyo-night/tokyo-night.svg)
 
-```Colours in use: Black: #16161e, Pale Blue: #9aa5ce, Lavender Blue: #c0caf5, Grey: #969696, Brown Yellow: #e0af68, Light Crimson: #f7768e, Pistachio: #9ece6a```
+```Colours in use: Black: #16161e, Pale Blue: #9aa5ce, Lavender Blue: #c0caf5, Grey: #969696, Yellow: #e0af68, Red: #f7768e, Green: #9ece6a```
 
 Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-tokyo-night/).
 
 <br/>
 
-### Minimalist Dracula
+### Tokyo Night Colour
+
+![Tokyo-Night](tokyo-night-colour/tokyo-night-colour.svg)
+
+```Colours in use: Black: #1a1b26, White: #a9b1d6, Blue: #7aa2f7, Yellow: #e0af68, Red: #f7768e, Purple: #bb9af7, Green: #9ece6a```
+
+Blue toolbar and active tabs with yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-colour/).
+
+<br/>
+
+### Dracula Colour
 
 ![Dracula](dracula-colour/dracula.svg)
 
 ```Colours in use: Black: #282a36, White: #f8f8f2, Purple: #bd93f9, Green: #50fa7b, Pink: #ff79c6, Yellow: #f1fa8c, Cyan: #8be9fd```
 
-Purple toolbar and active tabs with green highlights. Based on [Dracula](https://draculatheme.com/). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dracula/).
+Purple toolbar and active tabs with green highlights. Based on [Dracula](https://draculatheme.com/). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/dracula-colour/).
