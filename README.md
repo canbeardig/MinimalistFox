@@ -1,6 +1,9 @@
-# MinimalistFox
+MinimalistFox
+====
 
-Borderless, minimalist Firefox themes with single coloured active tabs and highlights.
+Minimalist Firefox themes based on popular colour schemes.
+
+<br/>
 
 ![green-tabs](screenshots/green-tabs.png)
 ![blue-tabs](screenshots/blue-tabs.png)
