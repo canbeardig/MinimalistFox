@@ -112,4 +112,4 @@ Blue toolbar and active tabs with yellow highlights. Based on [Tokyo Night](http
 
 ```Colours in use: Black: #282a36, White: #f8f8f2, Purple: #bd93f9, Green: #50fa7b, Pink: #ff79c6, Yellow: #f1fa8c, Cyan: #8be9fd```
 
-Purple toolbar and active tabs with green highlights. Based on [Dracula](https://draculatheme.com/). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/dracula-colour/).
+Purple toolbar and active tabs with green highlights. Based on [Dracula](https://github.com/dracula/dracula-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/dracula-colour/).
