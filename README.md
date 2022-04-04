@@ -21,6 +21,7 @@ Minimalist Firefox themes based on popular colour schemes.
 - [Minimalist Dark and Yellow Tabs](#minimalist-dark-and-yellow-tabs)
 - [Minimalist Black and Grey Tabs](#minimalist-black-and-grey-tabs)
 - [Minimalist Tokyo Night](#minimalist-tokyo-night)
+- [Minimalist Catppuccin](#minimalist-catppuccin)
 - [Tokyo Night Colour](#tokyo-night-colour)
 - [Dracula Colour](#dracula-colour)
 
@@ -93,6 +94,16 @@ Grey active tabs and highlights. Available on [Firefox Add-ons](https://addons.m
 ```Colours in use: Black: #16161e, Pale Blue: #9aa5ce, Lavender Blue: #c0caf5, Grey: #969696, Yellow: #e0af68, Red: #f7768e, Green: #9ece6a```
 
 Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-tokyo-night/).
+
+<br/>
+
+### Minimalist Catppuccin
+
+![Catppuccin](themes/minimalist-catppuccin/catppuccin.svg)
+
+```Colours in use: Black: #1e1e2e, White: #d9e0ee, Grey: #c3bac6, Pale Pink: #f2cdcd, Teal: #b5e8e0```
+
+Pale pink active tabs with teal highlights. Based on [Catppuccin](https://github.com/catppuccin). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-catppuccin/).
 
 <br/>
 
