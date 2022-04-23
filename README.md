@@ -7,7 +7,6 @@ Minimalist Firefox themes based on popular colour schemes.
 
 ![green-tabs](screenshots/green-tabs.png)
 ![blue-tabs](screenshots/blue-tabs.png)
-![tokyo-night-colour](screenshots/tokyo-night-colour.png)
 ![dracula-colour](screenshots/dracula-colour.png)
 
 <br/>
