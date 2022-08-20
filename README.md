@@ -15,7 +15,7 @@ Minimalist Firefox themes based on popular colour schemes.
 
 - [Minimalist Dark and Green Tabs](#minimalist-dark-and-green-tabs)
 - [Minimalist Dark and Red Tabs](#minimalist-dark-and-red-tabs)
-- [Minimalist Dark and Blue Tabs](#minimalist-dark-and-blue-tabs)
+- [Minimalist Nord](#minimalist-nord)
 - [Minimalist Dark and Purple Tabs](#minimalist-dark-and-purple-tabs)
 - [Minimalist Dark and Yellow Tabs](#minimalist-dark-and-yellow-tabs)
 - [Minimalist Black and Grey Tabs](#minimalist-black-and-grey-tabs)
@@ -46,13 +46,13 @@ Red active tabs and highlights. Inspired by [gruvbox](https://github.com/morhetz
 
 <br/>
 
-### Minimalist Dark and Blue Tabs
+### Minimalist Nord
 
 ![Blue-tabs](themes/dark-and-blue-tabs/blue-tabs.svg)
 
-```Colours in use: Black: #2b303c, Light Grey: #c5c5c7, Blue: #81a1c1```
+```Colours in use: Black: #2e3440, White: #d8dee9, Blue: #81a1c1```
 
-Blue active tabs and highlights. Inspired by [Nord colour palette](https://github.com/arcticicestudio/nord). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-blue-tabs/).
+Blue active tabs and highlights. Based on [Nord colour palette](https://github.com/arcticicestudio/nord). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-nord/).
 
 <br/>
 
