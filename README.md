@@ -28,7 +28,7 @@ Minimalist Firefox themes based on popular colour schemes.
 
 ### Minimalist Gruvbox
 
-![Minimalist-gruvbox](themes/dark-and-green-tabs/green-tabs.svg)
+![Minimalist-gruvbox](themes/minimalist-gruvbox/minimalist-gruvbox.svg)
 
 ```Colours in use: Black: #282828, Grey: #aaaaaa, Aqua: #689d6a```
 
