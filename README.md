@@ -13,7 +13,7 @@ Minimalist Firefox themes based on popular colour schemes.
 
 # List of themes
 
-- [Minimalist Dark and Green Tabs](#minimalist-dark-and-green-tabs)
+- [Minimalist Gruvbox](#minimalist-dark-and-green-tabs)
 - [Minimalist Dark and Red Tabs](#minimalist-dark-and-red-tabs)
 - [Minimalist Nord](#minimalist-nord)
 - [Minimalist Dark and Purple Tabs](#minimalist-dark-and-purple-tabs)
@@ -26,13 +26,13 @@ Minimalist Firefox themes based on popular colour schemes.
 
 <br/>
 
-### Minimalist Dark and Green Tabs
+### Minimalist Gruvbox
 
 ![Green-tabs](themes/dark-and-green-tabs/green-tabs.svg)
 
-```Colours in use: Black: #282828, Grey: #aaaaaa, Green: #689d69```
+```Colours in use: Black: #282828, Grey: #aaaaaa, Aqua: #689d6a```
 
-Green active tabs and highlights. Inspired by [gruvbox](https://github.com/morhetz/gruvbox). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-green-tabs/).
+Aqua active tabs and highlights. Based on [gruvbox](https://github.com/morhetz/gruvbox). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-gruvbox).
 
 <br/>
 
