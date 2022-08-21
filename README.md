@@ -48,7 +48,7 @@ Blue active tabs and highlights. Based on [Nord](https://github.com/arcticicestu
 
 ### Minimalist Tokyo Night
 
-![Tokyo-Night](themes/minimalist-tokyo-night/tokyo-night.svg)
+![Tokyo-Night](themes/minimalist-tokyo-night/minimalist-tokyo-night.svg)
 
 ```Colours in use: Black: #1a1b26, White: #a9b1d6, Blue: #9aa5ce, Yellow: #e0af68, Red: #f7768e, Green: #9ece6a```
 
