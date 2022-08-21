@@ -13,14 +13,14 @@ Minimalist Firefox themes based on popular colour schemes.
 
 # List of themes
 
-- [Minimalist Gruvbox](#minimalist-dark-and-green-tabs)
-- [Minimalist Dark and Red Tabs](#minimalist-dark-and-red-tabs)
+- [Minimalist Gruvbox](#minimalist-gruvbox)
 - [Minimalist Nord](#minimalist-nord)
+- [Minimalist Tokyo Night](#minimalist-tokyo-night)
+- [Minimalist Catppuccin](#minimalist-catppuccin)
+- [Minimalist Dark and Red Tabs](#minimalist-dark-and-red-tabs)
 - [Minimalist Dark and Purple Tabs](#minimalist-dark-and-purple-tabs)
 - [Minimalist Dark and Yellow Tabs](#minimalist-dark-and-yellow-tabs)
 - [Minimalist Black and Grey Tabs](#minimalist-black-and-grey-tabs)
-- [Minimalist Tokyo Night](#minimalist-tokyo-night)
-- [Minimalist Catppuccin](#minimalist-catppuccin)
 - [Tokyo Night Colour](#tokyo-night-colour)
 - [Dracula Colour](#dracula-colour)
 
@@ -28,21 +28,11 @@ Minimalist Firefox themes based on popular colour schemes.
 
 ### Minimalist Gruvbox
 
-![Green-tabs](themes/dark-and-green-tabs/green-tabs.svg)
+![Minimalist-gruvbox](themes/dark-and-green-tabs/green-tabs.svg)
 
 ```Colours in use: Black: #282828, Grey: #aaaaaa, Aqua: #689d6a```
 
 Aqua active tabs and highlights. Based on [gruvbox](https://github.com/morhetz/gruvbox). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-gruvbox).
-
-<br/>
-
-### Minimalist Dark and Red Tabs
-
-![Red-tabs](themes/dark-and-red-tabs/red-tabs.svg)
-
-```Colours in use: Black: #1f1f1f, Grey: #8a8a8a, Red: #9d353a```
-
-Red active tabs and highlights. Inspired by [gruvbox](https://github.com/morhetz/gruvbox). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-red-tabs/).
 
 <br/>
 
@@ -53,6 +43,36 @@ Red active tabs and highlights. Inspired by [gruvbox](https://github.com/morhetz
 ```Colours in use: Black: #2e3440, White: #d8dee9, Blue: #81a1c1```
 
 Blue active tabs and highlights. Based on [Nord colour palette](https://github.com/arcticicestudio/nord). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-nord/).
+
+<br/>
+
+### Minimalist Tokyo Night
+
+![Tokyo-Night](themes/minimalist-tokyo-night/tokyo-night.svg)
+
+```Colours in use: Black: #16161e, Pale Blue: #9aa5ce, Lavender Blue: #c0caf5, Grey: #969696, Yellow: #e0af68, Red: #f7768e, Green: #9ece6a```
+
+Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-tokyo-night/).
+
+<br/>
+
+### Minimalist Catppuccin
+
+![Catppuccin](themes/minimalist-catppuccin/catppuccin.svg)
+
+```Colours in use: Black: #1e1e2e, White: #d9e0ee, Grey: #c3bac6, Pale Pink: #f2cdcd, Teal: #b5e8e0```
+
+Pale pink active tabs with teal highlights. Based on [Catppuccin](https://github.com/catppuccin). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-catppuccin/).
+
+<br/>
+
+### Minimalist Dark and Red Tabs
+
+![Red-tabs](themes/dark-and-red-tabs/red-tabs.svg)
+
+```Colours in use: Black: #1f1f1f, Grey: #8a8a8a, Red: #9d353a```
+
+Red active tabs and highlights. Inspired by [gruvbox](https://github.com/morhetz/gruvbox). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-red-tabs/).
 
 <br/>
 
@@ -83,26 +103,6 @@ Yellow active tabs with pink highlights. Inspired by [Sweet Mars theme](https://
 ```Colours in use: Black: #000000, Grey: #808080```
 
 Grey active tabs and highlights. Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-black-and-grey-tabs/).
-
-<br/>
-
-### Minimalist Tokyo Night
-
-![Tokyo-Night](themes/minimalist-tokyo-night/tokyo-night.svg)
-
-```Colours in use: Black: #16161e, Pale Blue: #9aa5ce, Lavender Blue: #c0caf5, Grey: #969696, Yellow: #e0af68, Red: #f7768e, Green: #9ece6a```
-
-Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-tokyo-night/).
-
-<br/>
-
-### Minimalist Catppuccin
-
-![Catppuccin](themes/minimalist-catppuccin/catppuccin.svg)
-
-```Colours in use: Black: #1e1e2e, White: #d9e0ee, Grey: #c3bac6, Pale Pink: #f2cdcd, Teal: #b5e8e0```
-
-Pale pink active tabs with teal highlights. Based on [Catppuccin](https://github.com/catppuccin). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-catppuccin/).
 
 <br/>
 
