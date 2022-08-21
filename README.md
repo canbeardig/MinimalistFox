@@ -5,7 +5,7 @@ Minimalist Firefox themes based on popular colour schemes.
 
 <br/>
 
-![minimalist-gruvbox](screenshots/minimalist-gruvbox.png)
+![minimalist-gruvbox](screenshots/minimalist-gruvbox-1.png)
 ![minimalist-nord](screenshots/minimalist-nord.png)
 ![dracula-colour](screenshots/dracula-colour.png)
 
