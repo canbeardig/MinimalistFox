@@ -48,7 +48,7 @@ Red active tabs and highlights. Inspired by [gruvbox](https://github.com/morhetz
 
 ### Minimalist Nord
 
-![Blue-tabs](themes/dark-and-blue-tabs/blue-tabs.svg)
+![Minimalist-nord](themes/minimalist-nord/minimalist-nord.svg)
 
 ```Colours in use: Black: #2e3440, White: #d8dee9, Blue: #81a1c1```
 
