@@ -50,7 +50,7 @@ Blue active tabs and highlights. Based on [Nord](https://github.com/arcticicestu
 
 ![Tokyo-Night](themes/minimalist-tokyo-night/tokyo-night.svg)
 
-```Colours in use: Black: #1a1b26, Blue: #a9b1d6, #9aa5ce, Yellow: #e0af68, Red: #f7768e, Green: #9ece6a```
+```Colours in use: Black: #1a1b26, White: #a9b1d6, Blue: #9aa5ce, Yellow: #e0af68, Red: #f7768e, Green: #9ece6a```
 
 Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-tokyo-night/).
 
