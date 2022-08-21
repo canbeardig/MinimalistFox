@@ -42,7 +42,7 @@ Aqua active tabs and highlights. Based on [gruvbox](https://github.com/morhetz/g
 
 ```Colours in use: Black: #2e3440, White: #d8dee9, Blue: #81a1c1```
 
-Blue active tabs and highlights. Based on [Nord colour palette](https://github.com/arcticicestudio/nord). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-nord/).
+Blue active tabs and highlights. Based on [Nord](https://github.com/arcticicestudio/nord). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-nord/).
 
 <br/>
 
