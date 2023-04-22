@@ -15,14 +15,15 @@ Minimalist Firefox themes based on popular colour schemes.
 
 - [Minimalist Gruvbox](#minimalist-gruvbox)
 - [Minimalist Nord](#minimalist-nord)
+- [Minimalist Dracula](#minimalist-dracula)
 - [Minimalist Tokyo Night](#minimalist-tokyo-night)
 - [Minimalist Catppuccin](#minimalist-catppuccin)
 - [Minimalist Dark and Red Tabs](#minimalist-dark-and-red-tabs)
-- [Minimalist Dark and Purple Tabs](#minimalist-dark-and-purple-tabs)
 - [Minimalist Dark and Yellow Tabs](#minimalist-dark-and-yellow-tabs)
 - [Minimalist Black and Grey Tabs](#minimalist-black-and-grey-tabs)
-- [Tokyo Night Colour](#tokyo-night-colour)
 - [Dracula Colour](#dracula-colour)
+- [Tokyo Night Colour](#tokyo-night-colour)
+
 
 <br/>
 
@@ -43,6 +44,16 @@ Aqua active tabs and highlights. Based on [gruvbox](https://github.com/morhetz/g
 ```Colours in use: Black: #2e3440, White: #d8dee9, Blue: #81a1c1```
 
 Blue active tabs and highlights. Based on [Nord](https://github.com/arcticicestudio/nord). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-nord/).
+
+<br/>
+
+### Minimalist Dracula
+
+![Minimalist-dracula](themes/minimalist-dracula/minimalist-dracula.svg)
+
+```Colours in use: Black: #282a36, White: #f8f8f2, Purple: #bd93f9, Green: #50fa7b```
+
+Purple active tabs and highlights. Based on [Dracula](https://github.com/dracula/dracula-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dracula/).
 
 <br/>
 
@@ -76,16 +87,6 @@ Red active tabs and highlights. Inspired by [gruvbox](https://github.com/morhetz
 
 <br/>
 
-### Minimalist Dark and Purple Tabs
-
-![Purple-tabs](themes/dark-and-purple-tabs/purple-tabs.svg)
-
-```Colours in use: Black: #1e1f29, Grey: #aaaaaa, Purple: #725e97```
-
-Purple active tabs and highlights. Inspired by [Dracula-GTK](https://github.com/dracula/gtk). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-purple-tab/).
-
-<br/>
-
 ### Minimalist Dark and Yellow Tabs
 
 ![Yellow-tabs](themes/dark-and-yellow-tabs/yellow-tabs.svg)
@@ -106,16 +107,6 @@ Grey active tabs and highlights. Available on [Firefox Add-ons](https://addons.m
 
 <br/>
 
-### Tokyo Night Colour
-
-![Tokyo-Night](themes/tokyo-night-colour/tokyo-night-colour.svg)
-
-```Colours in use: Black: #1a1b26, White: #a9b1d6, Blue: #7aa2f7, Yellow: #e0af68, Red: #f7768e, Purple: #bb9af7, Green: #9ece6a```
-
-Blue toolbar and active tabs with yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-colour/).
-
-<br/>
-
 ### Dracula Colour
 
 ![Dracula](themes/dracula-colour/dracula.svg)
@@ -123,3 +114,13 @@ Blue toolbar and active tabs with yellow highlights. Based on [Tokyo Night](http
 ```Colours in use: Black: #282a36, White: #f8f8f2, Purple: #bd93f9, Green: #50fa7b, Pink: #ff79c6, Yellow: #f1fa8c, Cyan: #8be9fd```
 
 Purple toolbar and active tabs with green highlights. Based on [Dracula](https://github.com/dracula/dracula-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/dracula-colour/).
+
+<br/>
+
+### Tokyo Night Colour
+
+![Tokyo-Night](themes/tokyo-night-colour/tokyo-night-colour.svg)
+
+```Colours in use: Black: #1a1b26, White: #a9b1d6, Blue: #7aa2f7, Yellow: #e0af68, Red: #f7768e, Purple: #bb9af7, Green: #9ece6a```
+
+Blue toolbar and active tabs with yellow highlights. Based on [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-colour/).
