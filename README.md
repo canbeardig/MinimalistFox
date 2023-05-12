@@ -18,7 +18,6 @@ Minimalist Firefox themes based on popular colour schemes.
 - [Minimalist Dracula](#minimalist-dracula)
 - [Minimalist Tokyo Night](#minimalist-tokyo-night)
 - [Minimalist Catppuccin](#minimalist-catppuccin)
-- [Minimalist Everforest](#minimalist-everforest)
 - [Minimalist Dark and Red Tabs](#minimalist-dark-and-red-tabs)
 - [Minimalist Dark and Yellow Tabs](#minimalist-dark-and-yellow-tabs)
 - [Minimalist Black and Grey Tabs](#minimalist-black-and-grey-tabs)
@@ -75,16 +74,6 @@ Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://git
 ```Colours in use: Black: #1e1e2e, White: #d9e0ee, Grey: #c3bac6, Pale Pink: #f2cdcd, Teal: #b5e8e0```
 
 Pale pink active tabs with teal highlights. Based on [Catppuccin](https://github.com/catppuccin). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-catppuccin/).
-
-<br/>
-
-### Minimalist Everforest
-
-![Minimalist-everforest](themes/minimalist-everforest/everforest.svg)
-
-```Colours in use: Black: #2d353b, Grey: #d3c6aa, Green: #a7c080, Red: #e67e80```
-
-Green active tabs and highlights. Based on [Everforest](https://github.com/sainnhe/everforest). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-everforest/).
 
 <br/>
 
