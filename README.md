@@ -18,8 +18,8 @@ Minimalist Firefox themes based on popular colour schemes.
 - [Minimalist Dracula](#minimalist-dracula)
 - [Minimalist Tokyo Night](#minimalist-tokyo-night)
 - [Minimalist Catppuccin](#minimalist-catppuccin)
+- [Minimalist Everforest](#minimalist-everforest)
 - [Minimalist Dark and Red Tabs](#minimalist-dark-and-red-tabs)
-- [Minimalist Dark and Yellow Tabs](#minimalist-dark-and-yellow-tabs)
 - [Minimalist Black and Grey Tabs](#minimalist-black-and-grey-tabs)
 - [Dracula Colour](#dracula-colour)
 - [Tokyo Night Colour](#tokyo-night-colour)
@@ -77,6 +77,16 @@ Pale pink active tabs with teal highlights. Based on [Catppuccin](https://github
 
 <br/>
 
+### Minimalist Everforest
+
+![Everforest](themes/minimalist-everforest/minimalist-everforest.svg)
+
+```Colours in use: Black: #272e33, White: #d3c6aa, Yellow: #dbbc7f, Green: #a7c080, Red: #e67e80```
+
+Yellow active tabs with green highlights. Based on [Everforest](https://github.com/sainnhe/everforest). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-everforest/).
+
+<br/>
+
 ### Minimalist Dark and Red Tabs
 
 ![Red-tabs](themes/dark-and-red-tabs/red-tabs.svg)
@@ -84,16 +94,6 @@ Pale pink active tabs with teal highlights. Based on [Catppuccin](https://github
 ```Colours in use: Black: #1f1f1f, Grey: #8a8a8a, Red: #9d353a```
 
 Red active tabs and highlights. Inspired by [gruvbox](https://github.com/morhetz/gruvbox). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-red-tabs/).
-
-<br/>
-
-### Minimalist Dark and Yellow Tabs
-
-![Yellow-tabs](themes/dark-and-yellow-tabs/yellow-tabs.svg)
-
-```Colours in use: Black: #181b1e, Shadow Green: #9fbfb7, Yellow: #c1af58, Coral Pink: #c1585a```
-
-Yellow active tabs with pink highlights. Inspired by [Sweet Mars theme](https://github.com/EliverLara/Sweet). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-dark-and-yellow-tab/).
 
 <br/>
 
