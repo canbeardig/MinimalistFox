@@ -20,6 +20,7 @@ Minimalist Firefox themes based on popular colour schemes.
 - [Minimalist Catppuccin](#minimalist-catppuccin)
 - [Minimalist One Dark](#minimalist-one-dark)
 - [Minimalist Everforest](#minimalist-everforest)
+- [Minimalist Kanagawa](#minimalist-kanagawa)
 - [Minimalist Black and Grey Tabs](#minimalist-black-and-grey-tabs)
 
 <br/>
@@ -91,6 +92,16 @@ Red active tabs with blue highlights. Based on [One Dark](https://github.com/jos
 ```Colours in use: Black: #272e33, White: #d3c6aa, Yellow: #dbbc7f, Green: #a7c080, Red: #e67e80```
 
 Yellow active tabs with green highlights. Based on [Everforest](https://github.com/sainnhe/everforest). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-everforest/).
+
+<br/>
+
+### Minimalist Kanagawa
+
+![Minimalist-kanagawa](themes/minimalist-kanagawa/minimalist-kanagawa.png)
+
+```Colours in use: White: #f2ecbc, Black: #545464, Green: #597b75```
+
+Green active tabs and highlights. Based on [Kanagawa](https://github.com/rebelot/kanagawa.nvim). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-kanagawa/).
 
 <br/>
 
