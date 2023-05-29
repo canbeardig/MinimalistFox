@@ -31,7 +31,7 @@ Minimalist Firefox themes based on popular colour schemes.
 
 ```Colours in use: Black: #282828, Grey: #aaaaaa, Green: #689d6a```
 
-Aqua active tabs and highlights. Based on [gruvbox](https://github.com/morhetz/gruvbox). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-gruvbox).
+Green active tabs and highlights. Based on [gruvbox](https://github.com/morhetz/gruvbox). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-gruvbox).
 
 <br/>
 
