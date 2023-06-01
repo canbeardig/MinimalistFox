@@ -76,7 +76,7 @@ Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://git
 
 ```Colours in use: Black: #1e1e2e, White: #cdd6f4, Pale Pink: #f2cdcd, Teal: #94e2d5```
 
-Pale pink active tabs with teal highlights. Based on [Catppuccin](https://github.com/catppuccin). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-catppuccin/).
+Pale pink active tabs with teal highlights. Based on [Catppuccin Mocha](https://github.com/catppuccin). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-catppuccin/).
 
 <br/>
 
@@ -106,7 +106,7 @@ Yellow active tabs with green highlights. Based on [Everforest](https://github.c
 
 ```Colours in use: White: #f2ecbc, Black: #545464, Green: #597b75```
 
-Green active tabs and highlights. Based on [Kanagawa](https://github.com/rebelot/kanagawa.nvim). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-kanagawa/).
+Green active tabs and highlights. Based on [Kanagawa Lotus](https://github.com/rebelot/kanagawa.nvim). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-kanagawa/).
 
 <br/>
 
@@ -116,7 +116,7 @@ Green active tabs and highlights. Based on [Kanagawa](https://github.com/rebelot
 
 ```Colours in use: White: #faf4ed, Black: #575279, Rose: #d7827e```
 
-Rose active tabs and highlights. Based on [Rosé Pine](https://github.com/rose-pine). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-ros%C3%A9-pine/).
+Rose active tabs and highlights. Based on [Rosé Pine Dawn](https://github.com/rose-pine). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-ros%C3%A9-pine/).
 
 <br/>
 
