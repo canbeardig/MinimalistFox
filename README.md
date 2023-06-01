@@ -1,5 +1,4 @@
-<p align="center">
-  <h1 align="center"> MinimalistFox</h1>
+<h1 align="center"> MinimalistFox</h1>
 </p>
 
 
