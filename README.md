@@ -5,7 +5,7 @@
 <p align="center">Minimalist Firefox themes based on popular colour schemes.</p>
 <p align="center">
 <a href="https://addons.mozilla.org/en-US/firefox/user/15578079/">
-<img src="https://blog.mozilla.org/addons/files/2020/04/get-the-addon-fx-apr-2020.svg" width="100" />
+<img src="https://blog.mozilla.org/addons/files/2020/04/get-the-addon-fx-apr-2020.svg" width="119" />
     
 <br/>
 
