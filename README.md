@@ -84,7 +84,7 @@ Pale pink active tabs with teal highlights. Based on [Catppuccin Mocha](https://
 
 ### Minimalist One Dark
 
-![One Dark](themes/minimalist-one-dark/minimalist-one-dark.svg)
+![One Dark](themes/minimalist-one-dark/minimalist-one-dark.png)
 
 ```Colours in use: Black: #282c34, Grey: #abb2bf, Red: #e06c75, Blue: #61afef, Yellow: #e5c07b```
 
