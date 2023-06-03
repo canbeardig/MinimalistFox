@@ -44,7 +44,7 @@ Green active tabs and highlights. Based on [gruvbox](https://github.com/morhetz/
 
 ### Minimalist Nord
 
-![Minimalist-nord](themes/minimalist-nord/minimalist-nord.svg)
+![Minimalist-nord](themes/minimalist-nord/minimalist-nord.png)
 
 ```Colours in use: Black: #2e3440, White: #d8dee9, Blue: #81a1c1```
 
