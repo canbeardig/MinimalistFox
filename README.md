@@ -34,7 +34,7 @@
 
 ### Minimalist Gruvbox
 
-![Minimalist-gruvbox](themes/minimalist-gruvbox/minimalist-gruvbox.svg)
+![Minimalist-gruvbox](themes/minimalist-gruvbox/minimalist-gruvbox.png)
 
 ```Colours in use: Black: #282828, Grey: #aaaaaa, Green: #689d6a```
 
