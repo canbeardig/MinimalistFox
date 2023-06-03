@@ -94,7 +94,7 @@ Red active tabs with blue highlights. Based on [One Dark](https://github.com/jos
 
 ### Minimalist Everforest
 
-![Everforest](themes/minimalist-everforest/minimalist-everforest.svg)
+![Everforest](themes/minimalist-everforest/minimalist-everforest.png)
 
 ```Colours in use: Black: #272e33, White: #d3c6aa, Yellow: #dbbc7f, Green: #a7c080, Red: #e67e80```
 
