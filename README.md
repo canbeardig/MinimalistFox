@@ -64,7 +64,7 @@ Purple active tabs and highlights. Based on [Dracula](https://github.com/dracula
 
 ### Minimalist Tokyo Night
 
-![Tokyo-Night](themes/minimalist-tokyo-night/minimalist-tokyo-night.svg)
+![Tokyo-Night](themes/minimalist-tokyo-night/minimalist-tokyo-night.png)
 
 ```Colours in use: Black: #1a1b26, White: #a9b1d6, Blue: #9aa5ce, Yellow: #e0af68, Red: #f7768e, Green: #9ece6a```
 
