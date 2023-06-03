@@ -24,8 +24,10 @@
 - [Minimalist Catppuccin](#minimalist-catppuccin)
 - [Minimalist One Dark](#minimalist-one-dark)
 - [Minimalist Everforest](#minimalist-everforest)
-- [Minimalist Kanagawa](#minimalist-kanagawa)
+- [Minimalist Solarized](#minimalist-solarized)
 - [Minimalist Rosé Pine](#minimalist-rosé-pine)
+- [Minimalist Kanagawa](#minimalist-kanagawa)
+- [Minimalist Ayu](#minimalist-ayu)
 - [Minimalist Black and Grey Tabs](#minimalist-black-and-grey-tabs)
 
 <br/>
@@ -100,16 +102,16 @@ Yellow active tabs with green highlights. Based on [Everforest](https://github.c
 
 <br/>
 
-### Minimalist Kanagawa
+### Minimalist Solarized
 
-![Minimalist-kanagawa](themes/minimalist-kanagawa/minimalist-kanagawa.png)
+![Minimalist-solarized](themes/minimalist-solarized/minimalist-solarized.png)
 
-```Colours in use: White: #f2ecbc, Black: #545464, Green: #597b75```
+```Colours in use: White: #fdf6e3, Black: #657b83, Cyan: #2aa198```
 
-Green active tabs and highlights. Based on [Kanagawa Lotus](https://github.com/rebelot/kanagawa.nvim). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-kanagawa/).
-
+Cyan active tabs and highlights. Based on [Solarized Light](https://github.com/altercation/solarized). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-solarized/).
+    
 <br/>
-
+    
 ### Minimalist Rosé Pine
 
 ![Minimalist-rosé-pine](themes/minimalist-rose-pine/minimalist-rose-pine.png)
@@ -117,6 +119,26 @@ Green active tabs and highlights. Based on [Kanagawa Lotus](https://github.com/r
 ```Colours in use: White: #faf4ed, Black: #575279, Rose: #d7827e```
 
 Rose active tabs and highlights. Based on [Rosé Pine Dawn](https://github.com/rose-pine). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-ros%C3%A9-pine/).
+    
+<br/>
+
+### Minimalist Kanagawa
+
+![Minimalist-kanagawa](themes/minimalist-kanagawa/minimalist-kanagawa.png)
+
+```Colours in use: White: #f2ecbc, Black: #545464, Green: #597b75```
+
+Green active tabs and highlights. Based on [Kanagawa Lotus](https://github.com/rebelot/kanagawa.nvim). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-kanagawa/).
+    
+<br/>
+
+### Minimalist Ayu
+
+![Minimalist-ayu](themes/minimalist-ayu/minimalist-ayu.png)
+
+```Colours in use: White: #fcfcfc, Black: #5c6166, Orange: #f2ae49```
+
+Orange active tabs and highlights. Based on [Ayu Light](https://github.com/dempfi/ayu). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-ayu/).
 
 <br/>
 
