@@ -74,7 +74,7 @@ Pale blue active tabs with yellow highlights. Based on [Tokyo Night](https://git
 
 ### Minimalist Catppuccin
 
-![Catppuccin](themes/minimalist-catppuccin/minimalist-catppuccin.svg)
+![Catppuccin](themes/minimalist-catppuccin/minimalist-catppuccin.png)
 
 ```Colours in use: Black: #1e1e2e, White: #cdd6f4, Pale Pink: #f2cdcd, Teal: #94e2d5```
 
