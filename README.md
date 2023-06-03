@@ -54,7 +54,7 @@ Blue active tabs and highlights. Based on [Nord](https://github.com/arcticicestu
 
 ### Minimalist Dracula
 
-![Minimalist-dracula](themes/minimalist-dracula/minimalist-dracula.svg)
+![Minimalist-dracula](themes/minimalist-dracula/minimalist-dracula.png)
 
 ```Colours in use: Black: #282a36, White: #f8f8f2, Purple: #bd93f9, Green: #50fa7b```
 
